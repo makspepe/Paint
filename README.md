@@ -163,7 +163,7 @@
 
 Проект можно редактировать и компилировать как на Windows, так и на Linux и Mac OS.
 
-1. В 2 клика скачать архив с кодом:
+1. В 2 клика скачать [архив с кодом](https://github.com/makspepe/Paint/archive/master.zip):
 
 ![](https://raw.githubusercontent.com/makspepe/Paint/master/pics_tutorial/99source.png)
 
