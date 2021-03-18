@@ -1,1 +1,0 @@
--fix memoryleak for mouse move(line,circle) (from mouse move and tmpbmp to paint function)
